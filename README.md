@@ -1,5 +1,5 @@
 #### Hey folks 👋, I'm André
-> I craft software in a daily basis and I love to talk about you maintain, run and support your code on production.</h3>
+> I craft software in a daily basis and I love to talk about maintaining, running and supporting code on production.</h3>
 
 - 🔭 I’m currently working at **Red Hat**
 - 📝 I regularly write articles on [alizard0.github.io](alizard0.github.io)
