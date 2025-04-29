@@ -3,3 +3,4 @@
 
 - 🔭 I’m currently working at **Red Hat** as an Architect.
 - ⚡ Fun fact **I am a blood elf, holy paladin with high rio.**
+- As a modern software engineer, I also enjoy climbing.
