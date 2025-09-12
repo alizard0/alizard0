@@ -3,4 +3,4 @@
 
 - I’m currently working at Red Hat as an Architect.
 - As a modern software engineer, I enjoy climbing.
-- Fun fact I was a blood elf, holy paladin with high rio. But now I am a Master Sorcerer.
+- Fun fact I was a blood elf, holy paladin with high rio. But now I am a royal paladin.
